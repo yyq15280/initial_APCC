@@ -7,5 +7,5 @@ build
 .lock*
 *.pyc
 
-# result
+result
 result*
